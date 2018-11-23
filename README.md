@@ -1,7 +1,7 @@
 # Devanagari-character-recognition
 
 Steps to run the code:
-1. Open Jupyter Notebook (Install all the packages like Scipy, Keras, sklearn, OpenCV, tqdm, matplotlib)
+1. Open Jupyter Notebook (ensure you have installed packages like Scipy, Keras, sklearn, OpenCV, tqdm, matplotlib)
 2. Open Devnagari_character_recognition_final.ipynb file in Jupyter Notebook
 3. Change the DATA_PATH to where your Test and Train folder resides
 4. Run the code of all cells
